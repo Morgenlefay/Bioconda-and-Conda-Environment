@@ -23,6 +23,7 @@ conda install -c bioconda gffcompare
 conda install -c bioconda rsem
 conda install -c bioconda cufflinks
 conda install -c bioconda tophat
+mamba install -c compbiocore gsnap 
 conda deactivate
 ```
 ## ChIP-seq
