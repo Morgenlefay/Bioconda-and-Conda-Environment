@@ -1,3 +1,10 @@
+## Download
+```bash
+conda create -n Download
+mamba install -c bioconda sra-tools
+conda deactivate
+```
+
 ## Quality control
 ```bash
 conda create -n QC
